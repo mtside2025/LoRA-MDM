@@ -163,4 +163,6 @@ t2m_clip
 generated
 user_study
 *.npy
-plots
+plotskit/
+*.tar
+*.pkl
